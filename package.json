@@ -1,0 +1,23 @@
+{
+  "name": "jarbot",
+  "version": "0.0.1",
+  "description": "\"Bot de discord para interacción con ChatGPT-3.5\"",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rr69sport",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "14.9.0",
+    "dotenv": "16.0.3",
+    "openai": "3.2.1"
+  },
+  "devDependencies": {
+    "standard": "17.0.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
